@@ -33,6 +33,8 @@ bower_components
 
 # node-waf configuration
 .lock-wscript
+package-lock.json
+pnpm-lock.yaml
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
@@ -94,6 +96,8 @@ dist
 # vuepress v2.x temp and cache directory
 .temp
 .cache
+/docs/.vuepress/.cache
+/docs/.vuepress/.temp
 
 # Sveltekit cache directory
 .svelte-kit/

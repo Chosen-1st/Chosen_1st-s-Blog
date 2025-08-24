@@ -1,2 +1,18 @@
 # Chosen_1st-s-Blog
-Chosen_1st's Blog
+## 安装
+
+安装该项目所需的依赖
+
+```bash
+npm install --legacy-peer-deps
+```
+
+
+
+## 运行
+
+编译并运行该项目
+
+```bash
+npm run docs:dev
+```
